@@ -1,8 +1,18 @@
+<<<<<<< HEAD
 //<<<<<<< HEAD
 //hello world!!!
 //=======
 //My new rating!!!
 //>>>>>>> Rating
 // фиксим слияние с первой веткой
+//hello world!!!
+//My new rating!!!
+//=======
+//hello world!!!
+//Comment!!
+//>>>>>>> Comment
+
+//фиксим слияние со второй веткой
 hello world!!!
 My new rating!!!
+Comment!!
